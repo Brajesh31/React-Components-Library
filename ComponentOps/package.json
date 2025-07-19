@@ -1,0 +1,28 @@
+{
+  "name": "component-demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.7",
+    "lucide-react": "^0.511.0",
+    "next": "15.3.2",
+    "postcss": "^8.5.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-ga4": "^2.1.0",
+    "tailwindcss": "^4.1.7"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "22.15.23",
+    "@types/react": "19.1.6",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.2"
+  }
+}
